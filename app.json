@@ -1,7 +1,0 @@
-{
-    "name": "Canvas Demo",
-    "description": "Salesforce Canvas Demo",
-    "env": {
-        "CONSUMER_SECRET": ""
-    }
-}
