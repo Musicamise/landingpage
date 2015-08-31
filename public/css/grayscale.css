@@ -140,6 +140,18 @@ a:focus {
     }
 }
 
+
+@media(max-width: 769px) {
+    header.intro {
+        margin-top: 57px;
+        height: 100%;
+        background: url(../img/CapaSite-mobile.png) no-repeat center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
+}
 .intro {
     display: table;
     width: 100%;
